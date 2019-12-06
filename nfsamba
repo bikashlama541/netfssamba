@@ -1,6 +1,6 @@
 NFS: Network File System
 Its a way of mounting directories over a network. 
-In a typical NFS setup there is a server that exports a director in any number of clients
+In a typical NFS setup there is a server that exports a directory in any number of clients
 
 Steps:
 On the server side
